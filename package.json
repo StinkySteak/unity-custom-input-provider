@@ -1,0 +1,15 @@
+{
+    "name": "com.stinkysteak.custom-input-provider",
+    "version": "0.1.0",
+    "displayName": "Custom Input Provider",
+    "description": "An Input Provider for Unity New Input System",
+    "unity": "2021.3",
+    "documentationUrl": "https://github.com/StinkySteak/unity-custom-input-provider",
+    "changelogUrl": "https://github.com/StinkySteak/unity-custom-input-provider/blob/main/CHANGELOG.md",
+    "licensesUrl": "https://github.com/StinkySteak/unity-custom-input-provider/blob/main/LICENSE",
+    "author": {
+      "name": "Stinkysteak",
+      "email": "stinkysteak@steaksoft.com",
+      "url": "https://steaksoft.net"
+    }
+  }
